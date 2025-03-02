@@ -1,9 +1,7 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
+<script setup></script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <div class="bg-slate-600">
+    <img src="@/assets/igms/yamada-anna.jpeg" class="p-6" />
+  </div>
 </template>

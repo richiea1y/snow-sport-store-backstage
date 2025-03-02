@@ -1,4 +1,6 @@
-import './assets/main.css'
+// import './assets/main.css'
+import '@/styles/tw.css'; // tailwindcss 入口檔案
+
 // import '@/styles/style.scss'; // scss入口檔案
 import 'element-plus/dist/index.css';
 import 'virtual:svg-icons-register';
